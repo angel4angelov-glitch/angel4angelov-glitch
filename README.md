@@ -12,9 +12,9 @@
   <br>Thesis: Decision Focused Learning (End-to-End) for Portfolio Optimisation</h4>
 
 <h4 align="left">
-  🎓 Bachelor of Science (with Honours) in Biochemistry at the University of Warwick (Specialisation: Computational Chemistry)
+  🎓 Bachelor of Science (with Honours) in Biochemistry at the University of Warwick (Specialisation: Computational Biology)
   
-  <br>🎓 Thesis: Computational Moddeling and Analysis of VanA- and VanB-Type VanS/VanR Two-Component Systems</h4>
+  <br>Thesis: Computational Moddeling and Analysis of VanA- and VanB-Type VanS/VanR Two-Component Systems</h4>
 
 
 ###
