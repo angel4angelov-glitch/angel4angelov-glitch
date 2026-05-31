@@ -4,12 +4,12 @@
 
 <h2 align="left">Education</h2>
 
-<h4 align="left">🎓 Master of Science in Financial Technology at the University of Warwick (2025/26)</h4>
+<h4 align="left">🎓 Master of Science in Financial Technology at the University of Warwick (2025-26)</h4>
 
 - Thesis: Decision Focused Learning (End-to-End) for Portfolio Optimisation
 - Specialisation: Quantitative Finance
 
-<h4 align="left">🎓 Bachelor of Science (with Honours) in Biochemistry at the University of Warwick</h4>
+<h4 align="left">🎓 Bachelor of Science (with Honours) in Biochemistry at the University of Warwick (2022-25)</h4>
 
 - Thesis: Computational Modelling and Analysis of VanA- and VanB-Type VanS/VanR Two-Component Systems
 - Specialisation: Computational Biology
