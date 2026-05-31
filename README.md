@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">Master of Science in Financial Technology at the University of Warwick (2025/26)<br>Master's Thesis: Decision Focused Learning (End-to-End) for Portfolio Optimisation</h4>
+<h4 align="left">🎓 Master of Science in Financial Technology at the University of Warwick (2025/26)<br>💻 Master's Thesis: Decision Focused Learning (End-to-End) for Portfolio Optimisation</h4>
 
 ###
 
