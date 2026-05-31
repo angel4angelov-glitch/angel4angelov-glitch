@@ -41,6 +41,5 @@
 ###
 
 <p align="center">
-  <a href="mailto:angelivanangelov@gmail.com?subject=Hello%20Angel%20Angelov"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/angeliangelov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=angelivanangelov@gmail.com&su=Hello%20Angel%20Angelov"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/angeliangelov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
