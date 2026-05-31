@@ -12,9 +12,13 @@
 
 <h2 align="left">Competitions</h2>
 
-###
+- Citadel Europe Trading Invitational → Top 5 (70 finalists from 4,000+ applicants)
 
-<h4 align="left">Citadel Europe Trading Invitational → Top 5 (70 finalists from 4,000+ applicants)<br>WorldQuant International Quant Championship → Top 3 in UK (4,000 UK / 40,000+ worldwide)<br>Imperial College Algothon, Man Group track → Top 3 (230 selected from 700+ applicants)<br>Quadrature Fullhouse Hackathon → algorithmic poker, 400+ entrants (Jun 2026, result pending)</h4>
+- WorldQuant International Quant Championship → Top 3 in UK (4,000 UK / 40,000+ worldwide)
+  
+- Imperial College Algothon, Man Group track → Top 3 (230 selected from 700+ applicants)
+
+- Quadrature Fullhouse Hackathon → algorithmic poker, 400+ entrants (Jun 2026, result pending)
 
 ###
 
