@@ -28,3 +28,8 @@
 <h6 align="left">CV/Resume provided upton request; angelivanangelov@gmail.com</h6>
 
 ###
+
+<p align="center">
+  <a href="mailto:angelivanangelov@gmail.com?subject=Hello%20Angel%20Angelov"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/angeliangelov/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
