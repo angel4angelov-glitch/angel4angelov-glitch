@@ -15,7 +15,7 @@
 
 <h2 align="left">Education</h2>
 
-<h4 align="left">🎓 Master of Science in Financial Technology at the University of Warwick (2025-26)</h4>
+<h4 align="left">🎓 Master of Science in Financial Technology at the Warwick Business School (2025-26)</h4>
 
 - Thesis: Decision Focused Learning (End-to-End) for Portfolio Optimisation
 - Specialisation: Quantitative Finance
