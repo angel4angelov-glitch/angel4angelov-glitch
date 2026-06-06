@@ -18,7 +18,7 @@
 - Citadel Europe Trading Invitational → Top 5 (70 finalists from 4,000+ applicants)
 - WorldQuant International Quant Championship → Top 3 in UK (4,000 UK / 40,000+ worldwide)
 - Imperial College Algothon, Man Group track → Top 3 (230 selected from 700+ applicants)
-- Fullhouse Hackathon → Top 64 finalist (500+ entrants, algorithmic poker) - Final results pending Jun 2026 (Sponsors: Jane Street, SIG, Five Rings, Teza, QRT, Quadrature)
+- Fullhouse Hackathon → Top 10 (500+ entrants, algorithmic poker) (Sponsors: Jane Street, SIG, Five Rings, Teza, QRT, Quadrature, Jump Trading)
 
 ###
 
